@@ -1,4 +1,7 @@
-﻿# Redrain DuiLib
+For some reason,I think that a backup or upgrade should be good for my project.
+no reason for anyone else follow this fork.thank you.
+
+# Redrain DuiLib
 我自己使用的Duilib库中，修复了我在博客中说明的所有bug以及很多还没有去说明的bug，同样也包含别人修复过的bug。修复的部分bug可以看"Duilib更新日志.txt"，完整的修复过程描述请看我博客。
 
 - 库里面包含我扩展过的部分控件。修复了编译duilib时出现的““IDispatchEx”: 重定义；不同的基类型”和'ICanHandleException' : 重定义错误。
